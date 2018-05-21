@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookstore>
+    <book>
+        <title>learn python</title>
+        <price>100</price>
+    </book>
+    <book>
+        <title>learn C++</title>
+        <price>85.5</price>
+    </book>
+</bookstore>
+

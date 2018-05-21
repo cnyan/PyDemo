@@ -306,4 +306,4 @@ def now():
 
 
 now()
-print('now.__name__ = '+now.__name__)   #now.__name__ = wrapper
+print('now.__name__ = '+now.__name__)   #now.__name__ = now(288行)
